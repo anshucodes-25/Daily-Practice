@@ -1,0 +1,11 @@
+Revised core JavaScript concepts as part of my pre-backend prep:
+
+1- Destructuring (arrays & objects, nested, function params)
+2- Spread & Rest operators — difference between expanding vs collecting values
+3- Template literals — string interpolation, multi-line strings
+4- Callbacks — how functions get passed as arguments and called later, traced through several examples until it clicked
+
+
+Also updated my professional bio to reflect that I'm now learning backend development alongside React/JS.
+
+Next up: continuing pre-backend revision before diving into Node.js, Express, and MySQL.
