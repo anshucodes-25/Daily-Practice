@@ -1,0 +1,9 @@
+Today I learned Promises — how .then() and .catch() work, and what pending/fulfilled/rejected mean. Practiced with a username checker and a login system example.
+
+Then moved to async/await, and saw it's really the same Promises underneath, just written to look cleaner.
+
+Also covered try/catch for handling errors properly, JSON.parse/stringify, and finally used fetch() to call a real API (TMDB) — built a working searchMovie function with proper error handling.
+
+Finished my full JS revision today, so I'm ready to start Node.js next.
+
+Next: Node.js core, then Express, MySQL, and Auth.
